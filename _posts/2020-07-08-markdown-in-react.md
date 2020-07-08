@@ -138,7 +138,7 @@ export default function App() {
 }
 ```
 
-I have surround all my code on the `<Router>` component for it to work and create separate `.map` functions for the link list and the actual routing. The `<Switch>` component takes care of rendering the text formatted from markdown. I can't do it in one fucntion because it seems that the `<Switch>` can't have the links insie it.
+I have surround all my code on the `<Router>` component for it to work and create separate `.map` functions for the link list and the actual routing. The `<Switch>` component takes care of rendering the text formatted from markdown. I can't do it in one fucntion because it seems that the `<Switch>` can't have the links inside of it.
 
 The result, in [Codesandbox](https://codesandbox.io/s/react-markdown-multiple-files-mdhry), is a bit hacky since it uses the file name as the link text.
 
