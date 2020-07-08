@@ -90,7 +90,9 @@ Finally, I want to read multiple files at the same time and output their render 
 In addition, I want to be able to output each file on it's own with a link.
 
 This is done with a router. Fortunately, a [react-router](https://github.com/ReactTraining/react-router) exists! Even more so, I'm able to achieve what I wanted just reading at the first example in the page, which is excellent news.
-Also, Node has a module called `fs` that allows to read the file system, in this case our app environment. And it's as easy as a couple of lines.
+
+Also, Node has a module called `fs` that allows to read the [file system](https://nodejs.org/api/fs.html), in this case our app environment. And it's as easy as a couple of lines.
+
 Assuming I have put my file on a a `/post` folder, I can execute this code.
 
 ```jsx
