@@ -23,15 +23,15 @@ title: ADC
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ''
 url: 'https://andresdc.net'
-twitter_username: echounit1
-github_username: echounit1
+twitter_username: Andres__DC
+github_username: andres-dc
 
 permalink: /:year/:title
 paginate: 5
 
 author:
   name: Andrés Del Carpio
-  email: andres.dc39@gmail.com
+  email: andresdc@andresdc.net
 
 # Build settings
 theme: tale
