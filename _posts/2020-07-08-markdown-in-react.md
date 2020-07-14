@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rendering Markdown with React'
+title: 'Rendering Markdown With React'
 date: 2020-07-08
 categories: react markdown
 ---
